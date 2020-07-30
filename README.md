@@ -1,3 +1,5 @@
+![header image](https://raw.githubusercontent.com/MM-coder/branding/master/Social/Twitter/twitter_banner.png)
+
 ### 👋 I'm Mauro M.
 
 Hi there, I'm Mauro M. (known as MMgamer online).  
