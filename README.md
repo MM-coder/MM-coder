@@ -1,5 +1,7 @@
-### Hi there 👋
+### 👋 I'm Mauro M.
 
+Programming enthusiast and part-time developer. I'm proficent in Python, C#, JS & Dart (mostly Flutter). 
+ 
 <!--
 **MM-coder/MM-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
