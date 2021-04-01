@@ -2,7 +2,7 @@
 
 ### 👋 I'm Mauro M.
 
-Hi there, I'm Mauro M. (known as MMgamer online).  
+Hi there, I'm Mauro M.  
 I'm a programming enthusiast and full stack developer.  
 Check out my website https://maurom.dev for my recent work.
 
