@@ -6,8 +6,7 @@ Hi there, I'm Mauro M.
 I'm a programming enthusiast and full stack developer.  
 Check out my website https://maurom.dev for my recent work.
 
-:bulb: I'm proficent in Python, C#, JS & Dart (mostly Flutter).  
-:star: My favorite IDE is Visual Studio Code.  
-:mag_right: Currently learning Redis.  
+:bulb: I'm proficent in Python, C#, C++, JS & Dart (mostly Flutter).   
+:mag_right: I research multiple topics, spanning from Cybersecurity to Bioethics 
 
- You can contact me on Discord `MMgamer#2966` or by emailing me at [hello@maurom.dev](mailto:hello@maurom.dev)
+You can contact me by emailing me at [hello@maurom.dev](mailto:hello@maurom.dev)
